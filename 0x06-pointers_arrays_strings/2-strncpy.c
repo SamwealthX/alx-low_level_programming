@@ -31,4 +31,3 @@ a++;
 
 return (dest);
 }
-Foo
